@@ -1,12 +1,26 @@
-# PhotoLoop public website
+# 포토루프 · PhotoLoop
 
-Public app introduction, support contact and privacy policy for PhotoLoop (포토루프), provided by molu.
+사진과 영상을 나만의 디지털 액자로 감상하는 Android 앱입니다. 폴더를 선택하면 사진과 영상이 이어서 반복 재생됩니다.
 
-- `index.html`: app introduction and support
-- `privacy.html`: privacy policy for the currently described 2.5 installation build
-- `style.css`: responsive white/crayon theme
-- `assets/photoloop-icon.png`: approved app icon, copied without modification
+- 원본 비율을 유지하는 가로·세로 재생
+- 시간순·랜덤, 사진 전환 효과와 배경 선택
+- 선택형 야간 휴식과 충전 연결 감지
+- 한국어·영어 및 첫 화면 선택
+- 설정 아이콘을 1초간 눌러 설정 열기
 
-No APK, application source, signing keys, passwords or postal address are included. The current installation build has purchasing disabled. Review the billing SDK data practices and update the policy before a payment-enabled release. This site does not represent completion of Play Console declarations or app runtime testing.
+충전 감지는 기본으로 꺼져 있습니다. 실제 Device Owner 등 허용되는 환경에서는 앱 실행을 요청하고, Android 10 이상 일반 모드는 실행 알림을 누릅니다. 보안 잠금이나 시스템 강제 중지를 우회하지 않습니다.
 
-Publish the `main` branch root with GitHub Pages. `.nojekyll` keeps the static files unchanged.
+현재 안내하는 2.5 설치본의 Google Play 구매·구매 복원은 비활성 상태입니다. 스토어 공개 출시와 추가 기능 구매는 준비 중입니다.
+
+## 개인정보처리방침
+
+[포토루프 개인정보처리방침 본문](PRIVACY.md)
+
+## 지원
+
+개발자: **molu**  
+문의: **y2khoj@gmail.com**
+
+앱 버전, 휴대폰 기종과 문제 상황을 알려주시면 확인에 도움이 됩니다. 비밀번호·카드 번호·신분증이나 불필요한 민감 자료는 보내지 마세요.
+
+이 저장소에는 공개 소개·지원·방침과 웹페이지 파일을 보관합니다. 앱 소스·APK·서명키·비밀번호는 포함하지 않습니다. Pages 설정 방법은 [DEPLOYMENT.md](DEPLOYMENT.md)를 참고합니다.
