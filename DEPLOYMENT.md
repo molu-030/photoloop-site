@@ -1,3 +1,11 @@
+# Publication status — 2026-11-13
+
+The repository and readable GitHub documents are public:
+- Website: https://github.com/molu-030/photoloop-site
+- Privacy policy: https://github.com/molu-030/photoloop-site/blob/main/PRIVACY.md
+
+Anonymous browser access to both documents was verified. GitHub Pages activation is blocked for the connected integration (403: Resource not accessible by integration). The repository owner can optionally enable Pages from Settings → Pages → main branch / root. No github.io deployment URL has been verified. The static HTML files remain ready for that future deployment.
+
 # PhotoLoop public website
 
 Public app introduction, support contact and privacy policy for PhotoLoop (포토루프), provided by molu.

@@ -40,7 +40,7 @@ Google Play 결제를 활성화하는 버전을 제공하기 전에 결제 SDK�
 
 ## 7. 웹페이지 제공과 외부 서비스
 
-이 웹페이지는 GitHub Pages로 제공합니다. 페이지 제공과 관련된 GitHub의 정보 처리에는 [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)을 참고할 수 있습니다. Google 서비스의 정보 처리에는 [Google 개인정보처리방침](https://policies.google.com/privacy)이 적용됩니다.
+이 웹페이지는 GitHub 서비스를 통해 제공합니다. 페이지 제공과 관련된 GitHub의 정보 처리에는 [GitHub 개인정보처리방침](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)을 참고할 수 있습니다. Google 서비스의 정보 처리에는 [Google 개인정보처리방침](https://policies.google.com/privacy)이 적용됩니다.
 
 ## 8. 변경과 문의
 
